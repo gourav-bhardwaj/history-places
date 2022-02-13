@@ -1,0 +1,56 @@
+[{
+	"place": "Amar Jawan Jyoti",
+	"latitude": 26.8701983,
+	"longitude":75.749613,
+	"location": "jaipur",
+	"zipcode": "302005"
+},
+{
+	"place": "Hawa mahal",
+	"latitude": 26.9238837,
+	"longitude": 75.7918491,
+	"location": "jaipur",
+	"zipcode": "302002"
+},
+{
+	"place": "Ramniwas Bagh",
+	"latitude": 26.9150353,
+	"longitude":75.7829136,
+	"location": "jaipur",
+	"zipcode": "302001"
+},
+{
+	"place": "Shaheed Smarak",
+	"latitude": 26.8989039,
+	"longitude": 75.7811712,
+	"location": "jaipur",
+	"zipcode": "302004"
+},
+{
+	"place": "Jaigarh Fort",
+	"latitude": 26.9816746,
+	"longitude": 75.8097864,
+	"location": "jaipur",
+	"zipcode": "302028"
+},
+{
+	"place": "Medieval Ruins",
+	"latitude": 26.9524319,
+	"longitude": 75.792361,
+	"location": "jaipur",
+	"zipcode": "302002"
+},
+{
+	"place": "Jal Mahal",
+	"latitude": 26.9524319,
+	"longitude": 75.792361,
+	"location": "jaipur",
+	"zipcode": "302002"
+},
+{
+	"place": "Gaitor Ki Chhatriyan",
+	"latitude": 26.9524319,
+	"longitude": 75.792361,
+	"location": "jaipur",
+	"zipcode": "302002"
+}]
